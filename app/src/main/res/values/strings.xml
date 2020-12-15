@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Picce Game</string>
+    <string name="zero">0</string>
+    <string name="game">Simple Game</string>
+    <string name="playagain">Play Again</string>
+    <string name="exit">Exit Game</string>
+    <string name="show">Show State</string>
+</resources>
